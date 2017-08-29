@@ -1,11 +1,1 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="ShowGulpTasks">
-    <keyboard-shortcut first-keystroke="alt g" />
-  </action>
-  <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
-  </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
-  </action>
-</keymap>
+<keymap version="1" name="Default copy" parent="$default" />
