@@ -1,0 +1,39 @@
+<templateSet group="JavaScript">
+  <template name="cons" value="console.log($EXPRESS$)" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ob" value="$KEY$: $VAL$,&#10;" description="object internal autocomplete" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="oba" value="$KEY$: [&#10;    {$OKEY$: $OVAL$}&#10;]" description="object internal array autocomplete" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OKEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OVAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ob:" value="$KEY$: $VAL$" description="object internal inline autocomplete" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="re" value="require('$RES$')" description="require('')" toReformat="false" toShortenFQNames="true">
+    <variable name="RES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
