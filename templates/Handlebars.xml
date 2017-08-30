@@ -1,8 +1,6 @@
 <templateSet group="Handlebars">
   <template name="{{" value="{{$VAL$}}" description="{{}}" toReformat="false" toShortenFQNames="true">
     <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="Handlebars" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
