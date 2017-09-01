@@ -3,17 +3,18 @@
     <extensionMap>
       <mapping ext="tpl" type="HTML" />
       <mapping ext="partial" type="HTML" />
-      <mapping pattern="remove" type="JSON" />
-      <mapping pattern="11234123" type="JSON" />
-      <mapping pattern="create" type="JSON" />
       <mapping pattern="jj" type="JSON" />
-      <mapping pattern="2" type="JSON" />
+      <mapping pattern="create" type="JSON" />
+      <mapping pattern="remove" type="JSON" />
       <mapping pattern="1" type="JSON" />
       <mapping pattern="0" type="JSON" />
+      <mapping pattern="2" type="JSON" />
+      <mapping pattern="11234123" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping pattern="app" type="SCSS" />
       <mapping pattern="variables" type="SCSS" />
       <mapping pattern="0.json" type="TSLint" />
     </extensionMap>
