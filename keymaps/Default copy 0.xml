@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="Macro.Add comma to the end and start a new line">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+</keymap>
