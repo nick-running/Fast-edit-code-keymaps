@@ -1,9 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="fast end with comma and space">
-      <action id="EditorLineEnd" />
-      <typing text-keycode="44:0">,</typing>
-      <action id="EditorEnter" />
-    </macro>
-  </component>
-</application>
