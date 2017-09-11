@@ -2,4 +2,10 @@
   <action id="Macro.Add comma to the end and start a new line">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
+  </action>
 </keymap>
