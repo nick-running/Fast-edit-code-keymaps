@@ -1,6 +1,7 @@
 <templateSet group="JavaScript">
   <template name="cons" value="console.log($EXPRESS$)" description="console.log()" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="ob" value="$KEY$: $VAL$,&#10;" description="object internal autocomplete" toReformat="false" toShortenFQNames="true">
     <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
@@ -26,5 +27,6 @@
   </template>
   <template name="re" value="require('$RES$')" description="require('')" toReformat="false" toShortenFQNames="true">
     <variable name="RES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
