@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy 0" parent="$default">
+  <action id="ActivateAndroidMonitorToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="Macro.Add comma to the end and start a new line">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
@@ -7,5 +11,20 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
 </keymap>
