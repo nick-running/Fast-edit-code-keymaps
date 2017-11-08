@@ -14,6 +14,10 @@
           <option name="url" value="git@47.94.159.84:/home/gitrepo/IDeYang.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@47.94.159.84:/home/gitrepo/pickup.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\node" />
