@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/lushijie/thinkjs3-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nick-running/zj-prj.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\node" />
