@@ -12,6 +12,9 @@
   <action id="Macro.Add comma to the end and start a new line">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ShowGulpTasks">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
   </action>
