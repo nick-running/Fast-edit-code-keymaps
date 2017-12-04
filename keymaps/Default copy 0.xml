@@ -3,6 +3,12 @@
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
   <action id="Macro.Add comma to the end and start a new line">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
