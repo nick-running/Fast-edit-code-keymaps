@@ -66,9 +66,13 @@
           <option name="url" value="git@47.94.159.84:/home/gitrepo/easy_tools.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@47.94.159.84:/home/gitrepo/easy-skills-adm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\node" />
+    <option name="cloneParentDir" value="D:\dev\WebstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
