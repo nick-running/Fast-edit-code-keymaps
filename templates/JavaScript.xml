@@ -3,6 +3,7 @@
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="Vue" value="true" />
     </context>
   </template>
