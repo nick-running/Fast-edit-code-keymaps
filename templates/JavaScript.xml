@@ -14,7 +14,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ci" value="console.log(`$val$ is: ${JSON.stringify($val$)}`)" toReformat="false" toShortenFQNames="true">
+  <template name="ci" value="console.log(`$val$ is: ${JSON.stringify($val$)}`)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
