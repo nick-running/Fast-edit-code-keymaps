@@ -90,6 +90,10 @@
           <option name="url" value="git@47.94.159.84:/home/gitrepo/i_fetch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nick-running/vuex-router-iview.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\WebstormProjects" />
