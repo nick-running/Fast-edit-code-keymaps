@@ -98,9 +98,13 @@
           <option name="url" value="https://github.com/nick-running/typescript-canvas.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/felaozhiyong/qq_connenct_demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\CanvasProjects" />
+    <option name="cloneParentDir" value="D:\dev\demo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
