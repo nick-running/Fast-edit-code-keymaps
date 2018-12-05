@@ -102,9 +102,13 @@
           <option name="url" value="https://github.com/felaozhiyong/qq_connenct_demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/iview/iview-project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\demo" />
+    <option name="cloneParentDir" value="D:\dev\WebstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
