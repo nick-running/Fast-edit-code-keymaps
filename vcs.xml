@@ -114,6 +114,10 @@
           <option name="url" value="git@47.94.159.84:/home/gitrepo/vue-components.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@132.232.42.5:/home/gitrepo/dada-repo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\WebstormProjects" />
