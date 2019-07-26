@@ -28,7 +28,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cio" value="console.log(`$val$ is:`, $val$)" toReformat="false" toShortenFQNames="true">
+  <template name="cio" value="console.log(`$val$ is:`, $val$)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
