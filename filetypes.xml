@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="java" type="HTML" />
-      <mapping pattern="快手PC网页抓取配置.json" type="PLAIN_TEXT" />
-      <mapping pattern="themes.scss" type="PLAIN_TEXT" />
       <mapping pattern="varables.scss" type="PLAIN_TEXT" />
+      <mapping pattern="themes.scss" type="PLAIN_TEXT" />
       <mapping pattern="xishi.json" type="PLAIN_TEXT" />
       <mapping pattern="LittleWorld.vue" type="PLAIN_TEXT" />
+      <mapping pattern="快手PC网页抓取配置.json" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
