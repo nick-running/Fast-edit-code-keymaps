@@ -36,5 +36,18 @@
   </template>
   <template name="c" value="console.log(`$val$`)" toReformat="false" toShortenFQNames="true">
     <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="ct" value="console.time(`$val$`)&#10;console.timeEnd(`$val$`)" toReformat="false" toShortenFQNames="true">
+    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
   </template>
 </templateSet>
