@@ -178,9 +178,13 @@
           <option name="url" value="https://github.com/tencentyun/cos-js-sdk-v5.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xiaozhu188/electron-vue-cloud-music.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\dev\node" />
+    <option name="cloneParentDir" value="E:\dev\ElectronProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
