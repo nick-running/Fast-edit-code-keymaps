@@ -194,9 +194,21 @@
           <option name="url" value="git@132.232.42.5:/home/gitrepo/dada-helper.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.cddpi.com/bjdl/bjdl-official-activities/official-activities-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.cddpi.com" />
+          <option name="userName" value="jtang" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.cddpi.com/lbcloud/lbcloud-base-platform-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\dev\WebstormProjects" />
+    <option name="cloneParentDir" value="E:\Temp\lbcloud-base-platform-ui" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
