@@ -242,6 +242,14 @@
           <option name="url" value="git@121.4.21.214:root/vueadmin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://121.4.21.214:8090/root/vueadmin" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://121.4.21.214:8090" />
+          <option name="userName" value="yaohaibo" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\BusinessDev" />
