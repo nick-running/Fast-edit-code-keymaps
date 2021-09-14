@@ -250,9 +250,21 @@
           <option name="url" value="http://121.4.21.214:8090" />
           <option name="userName" value="yaohaibo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@132.232.42.5:/home/gitrepo/my-hotel-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@132.232.42.5:/home/gitrepo/my-hotel-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@132.232.42.5:/home/gitrepo/my-hotel-front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\BusinessDev" />
+    <option name="cloneParentDir" value="E:\dev\WebstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
