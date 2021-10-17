@@ -248,7 +248,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://121.4.21.214:8090" />
-          <option name="userName" value="yaohaibo" />
+          <option name="userName" value="root" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="git@132.232.42.5:/home/gitrepo/my-hotel-server.git" />
